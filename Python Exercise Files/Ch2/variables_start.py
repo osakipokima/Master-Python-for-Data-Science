@@ -23,7 +23,7 @@ def someFunction():
 # def will be printed first from the local variable inside the function
 someFunction()
 # 0 will be printed since f is a global variable defiend
-print(f)
+
 
 del f
 print(f)
